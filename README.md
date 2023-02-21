@@ -1,7 +1,5 @@
-<div style="text-align: center; transform: scale(.5);">
-  <img src="https://github.com/tldraw/tldraw/raw/main/assets/card-repo.png"/>
-</div>
-
-# @tldraw/www
+## Personal use version from https://github.com/tldraw/tldraw
 
 The [tldraw](https://tldraw.vercel.app) website.
+
+None credit preserved by me
